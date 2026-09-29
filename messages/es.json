@@ -1,0 +1,21 @@
+{
+  "nav": {
+    "brand": "LaunchHub",
+    "home": "Inicio",
+    "features": "Características",
+    "pricing": "Precios",
+    "testimonials": "Testimonios",
+    "cta": "Comenzar gratis",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú"
+  },
+  "footer": {
+    "tagline": "La plataforma todo en uno para crear, gestionar e implementar sitios web de los que tu equipo se sienta orgulloso.",
+    "linksHeading": "Navegar",
+    "socialHeading": "Síguenos",
+    "githubLabel": "LaunchHub en GitHub",
+    "twitterLabel": "LaunchHub en Twitter",
+    "linkedinLabel": "LaunchHub en LinkedIn",
+    "copyright": "Todos los derechos reservados."
+  }
+}

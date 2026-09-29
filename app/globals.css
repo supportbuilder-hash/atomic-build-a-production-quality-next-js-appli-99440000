@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #FAFAF9;
+  --foreground: #181B20;
+  --card: #FFFFFF;
+  --border: #E4E4E0;
+  --muted-foreground: #63666D;
+  --primary: #4F46E5;
+  --accent: #F97316;
+  --success: #15803D;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+}
+
+::selection {
+  background-color: var(--primary);
+  color: #FFFFFF;
+}
+
+:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+}
